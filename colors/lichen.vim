@@ -15,7 +15,7 @@ highlight clear
 if exists("syntax_on")
  syntax reset
 endif
-let g:colors_name = "mymoss"
+let g:colors_name = "lichen"
 
 if has("gui_running")
   " Highlighting groups for various occasions
