@@ -1,7 +1,7 @@
 " ------------------------------------------------------------------
 " Vim color file
 " Name: moss (苔) | lichen
-" Original Author: Li Chunlin <yeiicn!gmail.com> 
+" Original Author: Li Chunlin <yeiicn!gmail.com>
 " Modifier:   Jason Yalim <jyalim@asu.edu>
 " Last Change: 2010-08-06 | 2013 - 07 - 20
 " Version: 2.1 | 1.0
@@ -184,7 +184,7 @@ elseif &t_Co == 88 || &t_Co == 256
   hi Float     ctermfg=109
 
  " Bash Variables being set Are Identifiers
-  hi Identifier  ctermfg=81 cterm=NONE    
+  hi Identifier  ctermfg=81 cterm=NONE
   hi Function    ctermfg=101
 
   hi Statement   ctermfg=066
@@ -217,8 +217,8 @@ elseif &t_Co == 88 || &t_Co == 256
   hi Error       ctermfg=186 ctermbg=89
   hi Todo        cterm=NONE ctermfg=245 ctermbg=NONE
 
-  hi SpellBad    ctermfg=186 ctermbg=89 
-  hi SpellCap    ctermfg=232 ctermbg=89 
+  hi SpellBad    ctermfg=186 ctermbg=89
+  hi SpellCap    ctermfg=232 ctermbg=89
   hi SpellRare   ctermfg=89  ctermbg=186
   hi SpellLocal  ctermfg=89  ctermbg=249
 
